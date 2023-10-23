@@ -79,10 +79,6 @@ describe("MetaTokenTransfer", function () {
   });
 });
 
-// const { expect } = require("chai");
-// const { getBytes, parseEther } = require("ethers");
-// const { ethers } = require("hardhat");
-
 // describe("MetaTokenTransfer", function () {
 //   it("Should let user transfer tokens through a relayer with different nonces", async function () {
 //     // Deploy the contracts
